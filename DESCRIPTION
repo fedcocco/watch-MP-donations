@@ -1,0 +1,10 @@
+Package: watch-mp-donations
+Version: 1.0
+Imports:
+    dotenv,
+    httr,
+    janitor,
+    jsonlite,
+    lubridate,
+    tidyverse,
+    vctrs
